@@ -1,0 +1,14 @@
+{
+    "name": "ksnote",
+    "version": "1.0",
+    "desc": "利用本地存储保存在线笔记",
+    "cover": "",
+    "tag":"笔记,本地笔记",
+    "author": {
+        "name": "肖涛",
+        "email": "wb-xiaotao@taobao.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
