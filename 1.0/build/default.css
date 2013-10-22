@@ -6,13 +6,14 @@
     width: 225px;
     height: 216px;
     z-index: 10000;
-    background: transparent url(/imgs/bg.png) no-repeat top left;
+    background: transparent url(http://gtms01.alicdn.com/tps/i1/T1CF_WFglbXXcR_8kK-225-215.png) no-repeat top left;
     visibility: hidden;
 }
 .ks-note h4{
     text-align: center;
     height: 18px;
     cursor: move;
+    margin: 0;
 }
 .ks-note textarea{
     resize: none;
@@ -24,7 +25,7 @@
     margin: 10px 20px 0 20px;
 }
 .ks-note-hd .ks-note-nail{
-    background: url(/imgs/pin.png) no-repeat top left;
+    background: url(http://gtms01.alicdn.com/tps/i1/T1p5PTFc4dXXa.QH2d-32-96.png) no-repeat 0px -64px;
     display: block;
     position: absolute;
     left: 14px;
@@ -43,7 +44,7 @@
     right: 8px;
     text-indent: -9999px;
     display: block;
-    background: transparent url(/imgs/del.png) left top no-repeat;
+    background: transparent url(http://gtms01.alicdn.com/tps/i1/T1p5PTFc4dXXa.QH2d-32-96.png) -4px 2px no-repeat;
     width: 24px;
     height: 24px;
 }
@@ -52,7 +53,7 @@
     top: -8px;
     right: 32px;
     display: block;
-    background: transparent url(/imgs/hide.png) left top no-repeat;
+    background: transparent url(http://gtms01.alicdn.com/tps/i1/T1p5PTFc4dXXa.QH2d-32-96.png) -4px -28px no-repeat;
     width: 24px;
     height: 24px;
 }
